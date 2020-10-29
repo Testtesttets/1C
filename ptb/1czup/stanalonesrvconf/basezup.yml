@@ -1,0 +1,18 @@
+server:
+  address: localhost
+  port: 8532
+database:
+  path: D:\DemoHRM
+infobase:
+  distribute-licenses: yes
+  schedule-jobs: deny
+http:
+  base: /
+  http-services:
+   publish-by-default: true
+   publish-extensions-by-default: true
+   service:
+     name: mainweb
+     root: webroot
+     publish: true
+     reuse-sessions: AutoUse

@@ -1,0 +1,1 @@
+"C:\Program Files\1cv8\8.3.18.1128\bin\ibsrv.exe" --config=d:\basezup.yml
