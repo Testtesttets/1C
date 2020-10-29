@@ -2,26 +2,26 @@
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.11">
 	<ConfigVersions>
 		<Metadata name="CommonModule.ОбщиеДляВремени" id="c81c4c70-1548-431a-9797-4f86851be166" configVersion="f3332c0f7c2dd111095bb5aee84bd0ee7293f8e7"/>
-		<Metadata name="CommonModule.ОбщиеДляВремени.Module" id="c81c4c70-1548-431a-9797-4f86851be166.0" configVersion="f8cbb527cd4a04d544ed48cd4463ab654a9ac0a9"/>
+		<Metadata name="CommonModule.ОбщиеДляВремени.Module" id="c81c4c70-1548-431a-9797-4f86851be166.0" configVersion="319f32bc8f4eac7d2e56c58eb7474c6b6bd32478"/>
 		<Metadata name="CommonModule.ОбщийДляРегистраСведений" id="bc4fc12d-0771-482f-9e41-6a3b9bdaabca" configVersion="7e24725b89289a0be2cec78e80241791f3ce8e02"/>
-		<Metadata name="CommonModule.ОбщийДляРегистраСведений.Module" id="bc4fc12d-0771-482f-9e41-6a3b9bdaabca.0" configVersion="e3f0679c45b27da3b366abd4680f9ea53dd4f520"/>
-		<Metadata name="Configuration.web2" id="1cf2b417-ab6b-4a54-802f-9a4cd7be2559" configVersion="a657c011a0d2cdf1b5613e347095d2399fc459b5"/>
+		<Metadata name="CommonModule.ОбщийДляРегистраСведений.Module" id="bc4fc12d-0771-482f-9e41-6a3b9bdaabca.0" configVersion="1103c7b082b68314f8806a025de0a66857133c70"/>
+		<Metadata name="Configuration.web2" id="1cf2b417-ab6b-4a54-802f-9a4cd7be2559" configVersion="4102c6ff95f1b467835a1f677ab766cbb13cdd0f"/>
 		<Metadata name="HTTPService.mainweb" id="341bf92f-c696-4828-92e4-01a175c0f95d" configVersion="6aec7420090c298d8fea30e6df3cf13984802b2f">
 			<Metadata name="HTTPService.mainweb.URLTemplate.fortest.Method.POST" id="229fc81e-7df9-464f-b657-5a2accc4ec73"/>
 			<Metadata name="HTTPService.mainweb.URLTemplate.fortest.Method.GET" id="51fb8516-1be0-4d77-adf8-3554bb0205e2"/>
 			<Metadata name="HTTPService.mainweb.URLTemplate.fortest" id="e5581e24-c781-49c0-a5db-95d9a0f3e1b6"/>
 		</Metadata>
-		<Metadata name="HTTPService.mainweb.Module" id="341bf92f-c696-4828-92e4-01a175c0f95d.0" configVersion="29dae4d644dd972a76d0a37b3d550c95079d5999"/>
-		<Metadata name="InformationRegister.Request" id="23ab3818-dc75-4ba5-8b43-5fde155506b0" configVersion="129d72e5129a117ec29e6ef4663520a2613eb3a2">
+		<Metadata name="HTTPService.mainweb.Module" id="341bf92f-c696-4828-92e4-01a175c0f95d.0" configVersion="82158ba3f1854f11f064446537078ed78a0bd770"/>
+		<Metadata name="InformationRegister.Request" id="23ab3818-dc75-4ba5-8b43-5fde155506b0" configVersion="b9cde40b746cab87ab99fecec577875cb14b2fe3">
 			<Metadata name="InformationRegister.Request.Attribute.FullRowStr" id="22fb79e2-f038-4094-a407-cdcbe7b0a66c"/>
 			<Metadata name="InformationRegister.Request.Resource.RowFromHttp" id="726037d5-30b1-4e1c-be5d-7b1ee8277f4c"/>
 			<Metadata name="InformationRegister.Request.Dimension.UnixTimestamp" id="7808e322-f189-4d1a-a8c8-6886b2f86274"/>
 			<Metadata name="InformationRegister.Request.Resource.Users" id="f3d9e234-b54f-4474-a983-282a3caf4269"/>
 		</Metadata>
 		<Metadata name="Language.Русский" id="dd0b1d24-6517-46d5-8e96-834ffa79d8a6" configVersion="a7cd9c418bd8a29cb127cf93dec760524eb8085f"/>
-		<Metadata name="Role.web2ОсновнаяРоль" id="d2affcbc-9070-41bd-97b1-518ce76f276f" configVersion="9e4a7afc5e41545ff5fbb1e7b48ee563b81badd5"/>
+		<Metadata name="Role.web2ОсновнаяРоль" id="d2affcbc-9070-41bd-97b1-518ce76f276f" configVersion="6bb950f77881bdfc82dcec356f7897fd426e2b8e"/>
 		<Metadata name="Role.Администрирование" id="a44fe609-ffc2-470b-9ed6-2e45ae7cef51" configVersion="5df060c772e14587ad713dc4d98aad99cd2ebffe"/>
-		<Metadata name="Role.Администрирование.Rights" id="a44fe609-ffc2-470b-9ed6-2e45ae7cef51.0" configVersion="10af6a612cd44526a6759967bec4f54b42121495"/>
+		<Metadata name="Role.Администрирование.Rights" id="a44fe609-ffc2-470b-9ed6-2e45ae7cef51.0" configVersion="952b7a59d47109ab20f49b94e858c31a6fdbcece"/>
 		<Metadata name="Subsystem.Внешняя" id="22ad75a8-df37-4255-8df2-2d596bd12a74" configVersion="af0badc44cc5b7d944d7fe0501888f9d54e1b34a"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
