@@ -109,11 +109,11 @@
 			</Resource>
 			<Resource uuid="726037d5-30b1-4e1c-be5d-7b1ee8277f4c">
 				<Properties>
-					<Name>RowFromHttp</Name>
+					<Name>FrisrtRowHttp</Name>
 					<Synonym>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Row from http</v8:content>
+							<v8:content>Frisrt row http</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
