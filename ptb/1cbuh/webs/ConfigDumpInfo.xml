@@ -5,13 +5,13 @@
 		<Metadata name="CommonModule.ОбщиеДляВремени.Module" id="c81c4c70-1548-431a-9797-4f86851be166.0" configVersion="f8cbb527cd4a04d544ed48cd4463ab654a9ac0a9"/>
 		<Metadata name="CommonModule.ОбщийДляРегистраСведений" id="bc4fc12d-0771-482f-9e41-6a3b9bdaabca" configVersion="7e24725b89289a0be2cec78e80241791f3ce8e02"/>
 		<Metadata name="CommonModule.ОбщийДляРегистраСведений.Module" id="bc4fc12d-0771-482f-9e41-6a3b9bdaabca.0" configVersion="e3f0679c45b27da3b366abd4680f9ea53dd4f520"/>
-		<Metadata name="Configuration.web2" id="1cf2b417-ab6b-4a54-802f-9a4cd7be2559" configVersion="30de959a25bdafc0b5c103dfbf8d6e348b798027"/>
+		<Metadata name="Configuration.web2" id="1cf2b417-ab6b-4a54-802f-9a4cd7be2559" configVersion="a657c011a0d2cdf1b5613e347095d2399fc459b5"/>
 		<Metadata name="HTTPService.mainweb" id="341bf92f-c696-4828-92e4-01a175c0f95d" configVersion="6aec7420090c298d8fea30e6df3cf13984802b2f">
 			<Metadata name="HTTPService.mainweb.URLTemplate.fortest.Method.POST" id="229fc81e-7df9-464f-b657-5a2accc4ec73"/>
 			<Metadata name="HTTPService.mainweb.URLTemplate.fortest.Method.GET" id="51fb8516-1be0-4d77-adf8-3554bb0205e2"/>
 			<Metadata name="HTTPService.mainweb.URLTemplate.fortest" id="e5581e24-c781-49c0-a5db-95d9a0f3e1b6"/>
 		</Metadata>
-		<Metadata name="HTTPService.mainweb.Module" id="341bf92f-c696-4828-92e4-01a175c0f95d.0" configVersion="43d3c50a68d15782c7c269490bb526f472026b7f"/>
+		<Metadata name="HTTPService.mainweb.Module" id="341bf92f-c696-4828-92e4-01a175c0f95d.0" configVersion="29dae4d644dd972a76d0a37b3d550c95079d5999"/>
 		<Metadata name="InformationRegister.Request" id="23ab3818-dc75-4ba5-8b43-5fde155506b0" configVersion="129d72e5129a117ec29e6ef4663520a2613eb3a2">
 			<Metadata name="InformationRegister.Request.Attribute.FullRowStr" id="22fb79e2-f038-4094-a407-cdcbe7b0a66c"/>
 			<Metadata name="InformationRegister.Request.Resource.RowFromHttp" id="726037d5-30b1-4e1c-be5d-7b1ee8277f4c"/>
