@@ -76,6 +76,7 @@
 			<CommonModule>ОбщиеДляВремени</CommonModule>
 			<CommonModule>ОбщийДляРегистраСведений</CommonModule>
 			<HTTPService>mainweb</HTTPService>
+			<DataProcessor>ГенерацияТестовойОшибки</DataProcessor>
 			<InformationRegister>Request</InformationRegister>
 		</ChildObjects>
 	</Configuration>
