@@ -4,9 +4,9 @@
 		<Metadata name="CommonModule.ОбщиеДляВремени" id="c81c4c70-1548-431a-9797-4f86851be166" configVersion="f3332c0f7c2dd111095bb5aee84bd0ee7293f8e7"/>
 		<Metadata name="CommonModule.ОбщиеДляВремени.Module" id="c81c4c70-1548-431a-9797-4f86851be166.0" configVersion="e47ad769979d0cf8aa2c001573b1c69ff9eecda8"/>
 		<Metadata name="CommonModule.ОбщийДляРегистраСведений" id="bc4fc12d-0771-482f-9e41-6a3b9bdaabca" configVersion="7e24725b89289a0be2cec78e80241791f3ce8e02"/>
-		<Metadata name="CommonModule.ОбщийДляРегистраСведений.Module" id="bc4fc12d-0771-482f-9e41-6a3b9bdaabca.0" configVersion="cc63a652098fd0072bcb8e8d2fd656dc4ab50136"/>
+		<Metadata name="CommonModule.ОбщийДляРегистраСведений.Module" id="bc4fc12d-0771-482f-9e41-6a3b9bdaabca.0" configVersion="b2fa842f7e46b24a030a4e0a9634a5440fe2a4a0"/>
 		<Metadata name="Configuration.web2" id="1cf2b417-ab6b-4a54-802f-9a4cd7be2559" configVersion="e42dd3b974d9409869b6e7a7a40fdfd43c9d7eeb"/>
-		<Metadata name="Configuration.web2.ManagedApplicationModule" id="69657f58-72bd-4211-b89b-9db833cd587a.6" configVersion="b0fb302ddcda064edbc8cb86ac5ce571400c5f03"/>
+		<Metadata name="Configuration.web2.ManagedApplicationModule" id="69657f58-72bd-4211-b89b-9db833cd587a.6" configVersion="ae5a10bb1b67bc0887b9b562e9072995740e947b"/>
 		<Metadata name="DataProcessor.ГенерацияТестовойОшибки" id="f2bc3dd8-86e6-4dbd-9307-7ffb2ef9133e" configVersion="b45e14ee2982ded1704ff1dc52969183bbad30ae"/>
 		<Metadata name="DataProcessor.ГенерацияТестовойОшибки.Form.Форма" id="449f5362-7656-4697-b2cd-c830a52a457e" configVersion="3bfc6c6057b7a539e971d694390e20b1736249d4"/>
 		<Metadata name="DataProcessor.ГенерацияТестовойОшибки.Form.Форма.Form" id="449f5362-7656-4697-b2cd-c830a52a457e.0" configVersion="d2fa2872e63648cab96c9ea2ff939a0e563f5439"/>
@@ -22,10 +22,12 @@
 			<Metadata name="InformationRegister.Request.Dimension.UnixTimestamp" id="7808e322-f189-4d1a-a8c8-6886b2f86274"/>
 			<Metadata name="InformationRegister.Request.Resource.Users" id="f3d9e234-b54f-4474-a983-282a3caf4269"/>
 		</Metadata>
-		<Metadata name="InformationRegister.ОшибкиНаСтроне" id="96c82a9a-f719-4a4c-a9f8-4199600e2ba9" configVersion="c0019813e34a27b1e3feefe7ed65c861be7727cc">
+		<Metadata name="InformationRegister.ОшибкиНаСтроне" id="96c82a9a-f719-4a4c-a9f8-4199600e2ba9" configVersion="eca66aeaf98d189c7fb5cc15304c68c1d4a12849">
 			<Metadata name="InformationRegister.ОшибкиНаСтроне.Dimension.Клиент" id="1f3cfe47-c75f-496f-bd24-9038769389f2"/>
+			<Metadata name="InformationRegister.ОшибкиНаСтроне.Resource.ДатаОтправки" id="276daffa-8fff-4be0-8e27-180818ca4a84"/>
 			<Metadata name="InformationRegister.ОшибкиНаСтроне.Dimension.ТекущийПользователь" id="3c9633af-960d-42c4-a7c8-9331c8f81bab"/>
 			<Metadata name="InformationRegister.ОшибкиНаСтроне.Resource.ИмяМодуля" id="4bf4e0b1-a96d-48e3-a6c0-2591d956b0d6"/>
+			<Metadata name="InformationRegister.ОшибкиНаСтроне.Resource.ДатаПолучения" id="721a4cf4-3451-4664-a5e7-fdba375bbe21"/>
 			<Metadata name="InformationRegister.ОшибкиНаСтроне.Dimension.ВремяUnix" id="771aff69-fd2f-4d56-a63f-bc597f777eee"/>
 			<Metadata name="InformationRegister.ОшибкиНаСтроне.Resource.Описание" id="78bcbcf9-758d-44a3-815e-7bf63aec4c85"/>
 			<Metadata name="InformationRegister.ОшибкиНаСтроне.Resource.ИсходнаяСтрока" id="a62264b0-1ac4-4f00-b0c8-1763149a4977"/>
@@ -34,10 +36,13 @@
 			<Metadata name="InformationRegister.ОшибкиНаСтроне.Resource.СтрокаНомер" id="f5703720-c82e-4721-9bc0-d40e378c7463"/>
 		</Metadata>
 		<Metadata name="Language.Русский" id="dd0b1d24-6517-46d5-8e96-834ffa79d8a6" configVersion="a7cd9c418bd8a29cb127cf93dec760524eb8085f"/>
-		<Metadata name="Report.ОтчетПо" id="9ce8548f-b7a7-4454-b7e6-cf286c24cac2" configVersion="c68bfca3c566f60293e5f9421d72974166e6ce56"/>
+		<Metadata name="Report.ОтчетПоОшибкам" id="9ce8548f-b7a7-4454-b7e6-cf286c24cac2" configVersion="46eb5b3a6af765ecb78cef5c05fbeedd349725da"/>
+		<Metadata name="Report.ОтчетПоОшибкам.Template.ОсновнаяСхемаКомпоновкиДанных" id="d3cdd548-60d0-4768-abf7-1a36437ac762" configVersion="f3c6c683d521627ab3d956cc2e45ccfe3c568c6f"/>
+		<Metadata name="Report.ОтчетПоОшибкам.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="d3cdd548-60d0-4768-abf7-1a36437ac762.0" configVersion="43f48428ccd37a553e3a48bef25909053acc5b93"/>
 		<Metadata name="Role.web2ОсновнаяРоль" id="d2affcbc-9070-41bd-97b1-518ce76f276f" configVersion="6bb950f77881bdfc82dcec356f7897fd426e2b8e"/>
+		<Metadata name="Role.web2ОсновнаяРоль.Rights" id="d2affcbc-9070-41bd-97b1-518ce76f276f.0" configVersion="aba015ab71b8ff797882f7e528f600b56d7f36ab"/>
 		<Metadata name="Role.Администрирование" id="a44fe609-ffc2-470b-9ed6-2e45ae7cef51" configVersion="5df060c772e14587ad713dc4d98aad99cd2ebffe"/>
-		<Metadata name="Role.Администрирование.Rights" id="a44fe609-ffc2-470b-9ed6-2e45ae7cef51.0" configVersion="952b7a59d47109ab20f49b94e858c31a6fdbcece"/>
-		<Metadata name="Subsystem.Внешняя" id="22ad75a8-df37-4255-8df2-2d596bd12a74" configVersion="568f814dc8b58e814f966aea9559d68052187e86"/>
+		<Metadata name="Role.Администрирование.Rights" id="a44fe609-ffc2-470b-9ed6-2e45ae7cef51.0" configVersion="2b2a9d4a99d224ace0737b9fc3abc21385767c77"/>
+		<Metadata name="Subsystem.Внешняя" id="22ad75a8-df37-4255-8df2-2d596bd12a74" configVersion="f3d2b5a24a8604f121458a328fd49980c5860d0e"/>
 	</ConfigVersions>
 </ConfigDumpInfo>

@@ -76,7 +76,7 @@
 			<CommonModule>ОбщиеДляВремени</CommonModule>
 			<CommonModule>ОбщийДляРегистраСведений</CommonModule>
 			<HTTPService>mainweb</HTTPService>
-			<Report>ОтчетПо</Report>
+			<Report>ОтчетПоОшибкам</Report>
 			<DataProcessor>ГенерацияТестовойОшибки</DataProcessor>
 			<InformationRegister>Request</InformationRegister>
 			<InformationRegister>ОшибкиНаСтроне</InformationRegister>
