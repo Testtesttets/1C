@@ -78,6 +78,7 @@
 			<HTTPService>mainweb</HTTPService>
 			<DataProcessor>ГенерацияТестовойОшибки</DataProcessor>
 			<InformationRegister>Request</InformationRegister>
+			<InformationRegister>ОшибкиНаСтроне</InformationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

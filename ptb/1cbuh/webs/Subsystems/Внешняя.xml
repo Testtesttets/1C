@@ -22,6 +22,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.ОбщийДляРегистраСведений</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">HTTPService.mainweb</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">DataProcessor.ГенерацияТестовойОшибки</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ОшибкиНаСтроне</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>
